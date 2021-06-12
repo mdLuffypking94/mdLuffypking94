@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdLuffypking94
 - 👀 I’m interested in baking, singing, and playing the piano.
 - 🌱 I’m currently learning Web devlopment by TruCoders. 
-- 💞️ I’m looking to collaborate new projects will evetually come across.
+- 💞️ I’m looking to collaborate new projects I will eventually come across.
 - 📫 How to reach me by email: kasksoccerman@gmail.com
 
 <!---
